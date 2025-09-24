@@ -88,4 +88,4 @@ test-cases:
       Успешный ответ сервера при оформлении заказа
     status: fail
 
-  bugreports: []
+bugreports: []
